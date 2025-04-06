@@ -41,4 +41,5 @@ Whether you're viewing it on a phone, tablet, or desktop, the layout dynamically
 Design inspired by [TripAdvisor](). This project is built for learning and portfolio purposes only.
 
 ---
+link(https://sandhiya2418.github.io/tripadvisor-clone/)
 
